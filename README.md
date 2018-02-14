@@ -1,4 +1,4 @@
-# Sample Spring Boot app for bankmonitor/spring-boot docker image
+# Sample Spring Boot demo app
 
 ## Build
 
