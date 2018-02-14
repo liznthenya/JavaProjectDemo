@@ -10,7 +10,7 @@ public class AppController {
 	@SuppressWarnings("static-method")
 	public String status() {
 
-		return "Hello World";
+		return "OK";
 	}
 
 }
